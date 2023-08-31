@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullname": "Kasidit Boonchaissssssss",
+      "email": "a@test.com",
+      "password": "1q2w3e4r",
+      "gender": "None"
+    }
+  ]
+}
